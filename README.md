@@ -5,9 +5,11 @@
 Project Title: E-commerce Recommendation System Using Machine Learning
 
 **Author Name:Ishita**
+
 **Institution: UIET,MDU Rohtak**
 Date:03-01-2025
 **Project Overview**
+
 **Project Name:E-commerce Recommendation System Using Python Flask and Machine Learning**
 
 **Objective:**
@@ -78,7 +80,9 @@ recommendation system.
 
 **Evaluation Plan:**
 ● Perform regular testing cycles.
+
 ● Gather user feedback for continuous improvement.
+
 ● Document findings in quality assurance reports.
 
 **Future Work**

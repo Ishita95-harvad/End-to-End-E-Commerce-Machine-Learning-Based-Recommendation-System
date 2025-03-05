@@ -20,9 +20,11 @@ personalized product recommendations to enhance user satisfaction and engagement
 **Goals:**
 1. Increase Personalization Accuracy: Improve recommendation accuracy by 17% or
 more using advanced machine learning techniques.
-2. Enhance User Experience: Provide tailored product suggestions, boosting user
+
+3. Enhance User Experience: Provide tailored product suggestions, boosting user
 satisfaction and retention.
-3. Scalability: Design a scalable and modular system capable of handling increased data
+
+4. Scalability: Design a scalable and modular system capable of handling increased data
 and user load efficiently.
 
 **Source :Source -https://www.kaggle.com/datasets/irvifa/amazon-product-reviews.**
@@ -55,8 +57,7 @@ Project Deliverables
 1. A fully functional e-commerce platform integrated with machine learning-based
 recommendation systems.
 2. Comprehensive documentation, including:
-3. 
-○ Project structure and codebase details.
+3. ○ Project structure and codebase details.
 ○ Data selection and preprocessing steps.
 ○ Explanation of machine learning models and evaluation metrics.
 4. Stakeholder reports demonstrating project impact through storytelling and data
@@ -64,6 +65,7 @@ visualization.
 5. A quality evaluation report ensuring that the system meets predefined standards.
 
 **Project Methodology**
+
 **Steps:**
 1. Problem Definition: Clearly define the objectives and constraints of the
 recommendation system.
@@ -86,6 +88,7 @@ recommendation system.
 ○ Monitor click-through rates and purchase conversions.
 
 **Evaluation Plan:**
+
 ● Perform regular testing cycles.
 
 ● Gather user feedback for continuous improvement.

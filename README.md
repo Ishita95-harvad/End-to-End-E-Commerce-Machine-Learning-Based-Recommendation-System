@@ -8,6 +8,7 @@ Project Title: E-commerce Recommendation System Using Machine Learning
 
 **Institution: UIET,MDU Rohtak**
 Date:03-01-2025
+
 **Project Overview**
 
 **Project Name:E-commerce Recommendation System Using Python Flask and Machine Learning**
@@ -27,7 +28,9 @@ and user load efficiently.
 **Source :Source -https://www.kaggle.com/datasets/irvifa/amazon-product-reviews.**
 
 **Scope**
+
 **In-Scope:**
+
 **1. Types of Recommendation Systems:**
 ○ Content-Based Filtering
 ○ Collaborative Filtering
@@ -41,20 +44,24 @@ and user load efficiently.
 ○ Python Flask for backend development.
 ○ Machine learning algorithms for recommendations.
 ○ Data visualization libraries for stakeholder reporting.
+
 **Out of Scope:**
+
 1. Marketing campaigns or user acquisition strategies.
 2. Extensive frontend UI/UX development beyond basic requirements.
 
 Project Deliverables
+
 1. A fully functional e-commerce platform integrated with machine learning-based
 recommendation systems.
 2. Comprehensive documentation, including:
+3. 
 ○ Project structure and codebase details.
 ○ Data selection and preprocessing steps.
 ○ Explanation of machine learning models and evaluation metrics.
-3. Stakeholder reports demonstrating project impact through storytelling and data
+4. Stakeholder reports demonstrating project impact through storytelling and data
 visualization.
-4. A quality evaluation report ensuring that the system meets predefined standards.
+5. A quality evaluation report ensuring that the system meets predefined standards.
 
 **Project Methodology**
 **Steps:**
